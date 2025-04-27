@@ -3,6 +3,7 @@
 ## Sources
 
 * The page is generated using [MkDocs](https://www.mkdocs.org/) with the [Material theme](https://github.com/squidfunk/mkdocs-material).
+* Deploying the MkDocs documentation [blog](https://dev.to/jajera/deploying-mkdocs-on-github-pages-with-devcontainers-207a)
 
 ## Inspiration
 list of personal web pages I used as a reference to build mine.
