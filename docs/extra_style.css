@@ -156,11 +156,9 @@ img[alt=resume_image] {
 .we-work {
     font-size: 1.2em;
     font-weight: bold;
-    display: flex;
 }
 
 .we-duration {
-    display: flex;
     padding-left: 10px;
     font-size: 0.9em;
     margin-bottom: 5px;
@@ -176,6 +174,41 @@ img[alt=resume_image] {
     font-size: 0.9em;
 }
 
+@media (max-width: 768px) {
+    .we-work-duration {
+        flex-direction: column;
+        align-items: flex-start;
+        margin-bottom: -20px;
+    }
+
+    .we-company-location {
+        flex-direction: column;
+        align-items: flex-start;
+        margin-bottom: -5px;
+    }
+
+    .we-work {
+        font-size: 1.2em;
+        font-weight: bold;
+    }
+
+    .we-duration {
+        padding-left: 0px;
+        font-size: 0.9em;
+        margin-bottom: 5px;
+    }
+
+    .we-company {
+        font-size: 1em;
+        font-weight: normal;
+    }
+
+    .we-location {
+        padding-left: 0px;
+        font-size: 0.9em;
+    }
+}
+
 /* -------------------------------------------
     Education
    ------------------------------------------- */
@@ -184,22 +217,22 @@ img[alt=resume_image] {
     display: flex;
     align-items: baseline;
     margin-bottom: -20px;
+    flex-direction: row;
 }
 
 .edu-university-location {
     display: flex;
     align-items: baseline;
     margin-bottom: -15px;
+    flex-direction: row;
 }
 
 .edu-degree {
     font-size: 1.2em;
     font-weight: bold;
-    display: flex;
 }
 
 .edu-duration {
-    display: flex;
     padding-left: 10px;
     font-size: 0.9em;
     margin-bottom: 5px;
@@ -218,6 +251,46 @@ img[alt=resume_image] {
 .edu-grade {
     font-size: 0.9em;
     padding-left: 30px;
+}
+
+@media (max-width: 768px) {
+    .edu-degree-duration {
+        flex-direction: column;
+        align-items: flex-start;
+        margin-bottom: -20px;
+    }
+
+    .edu-university-location {
+        flex-direction: column;
+        align-items: flex-start;
+        margin-bottom: -5px;
+    }
+
+    .edu-degree {
+        font-size: 1.2em;
+        font-weight: bold;
+    }
+
+    .edu-duration {
+        padding-left: 0;
+        font-size: 0.9em;
+        margin-bottom: 5px;
+    }
+
+    .edu-university {
+        font-size: 1em;
+        font-weight: normal;
+    }
+
+    .edu-location {
+        padding-left: 0;
+        font-size: 0.9em;
+    }
+
+    .edu-grade {
+        font-size: 1.9em;
+        padding-left: 30px;
+    }
 }
 
 /* -------------------------------------------
