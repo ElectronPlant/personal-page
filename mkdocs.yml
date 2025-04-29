@@ -1,5 +1,6 @@
 site_name: David Arnaiz
-repo_name: David-Arnaiz
+site_url: https://electronplant.github.io/personal-page/
+repo_name: personal-page
 copyright: Copyright © 2025 David Arnaiz
 theme:
   name: material
@@ -51,6 +52,7 @@ markdown_extensions:
 
 plugins:
     - search:
+    - social:
 
 nav:
     - About Me: index.md
