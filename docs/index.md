@@ -115,7 +115,7 @@ I'm an about the design and development of intelligent embedded systems, and hav
     <span class="we-work">R&D Electronic Engineer</span>
     <span class="we-duration">[Sept. 2016 - Sept. 2018]</span>
 </p>
-<p class="we-company-location">
+<p markdown class="we-company-location">
     <span class="we-company">HP - Large Format Printing</span>
     <span class="we-location"> :fontawesome-solid-location-dot: Barcelona, Spain</span>
 </p>
