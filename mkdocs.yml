@@ -15,13 +15,13 @@ theme:
     - navigation.footer
 
   palette:
-    - scheme: default
+    - scheme: slate
       primary: blue
       accent: blue
       toggle:
         icon: material/brightness-3
         name: Switch to dark mode
-    - scheme: slate
+    - scheme: default
       primary: blue
       accent: blue
       toggle:
