@@ -18,7 +18,7 @@ title: David Arnaiz - Curriculum Vitae
   <a href="https://www.linkedin.com/in/david-arnaiz-mart%C3%ADnez" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     :fontawesome-brands-linkedin:
   </a>
-  <a href="https://scholar.google.com/citations?user=32m35KwAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+  <a href="https://scholar.google.com/citations?user=32m35KwAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" title="Google Scholar">
     :fontawesome-brands-google-scholar:
   </a>
   <a href="assets/documents/DavidArnaiz_CV_2025_05.pdf" target="_blank" rel="noopener noreferrer" title="Download PDF">
