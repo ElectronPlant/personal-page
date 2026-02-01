@@ -6,7 +6,8 @@ title: Publications
 
 This is a hub page linking to my research publications along with a brief summary for each of them. For more updated information checkout my [google scholar's](https://scholar.google.com/citations?user=32m35KwAAAAJ&hl=en) profile.
 
-## Conference Poceddings
+---
+## Conference Proceedings
 <p class="pub-title-first">
     <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.1109/DCIS53048.2021.9666191" title="C.I">
         Data Relevance-Aware Dynamic Sensing Technique with Battery Lifetime Guarantee for Wireless Sensor Nodes
@@ -98,7 +99,7 @@ The timeseries data this dataset was obtained using a temperature sensor in an i
   </a>
 </p>
 __Summary:__
-The dataset in this dataset has two different timeseries of Atmospheric pressure, relative humidity and light intensitive data, each recorded at different times. Both datasets have been collected with a sampling period of 10s over several weeks. The first dataset is composed of 302845 samples, and the second of 504862 samples. The first dataset is intended to be used for training to set the necessary parameters and the second dataset to validate the monitoring method. This dataset was collected to support {[C.III]} to simulate real sensor measurements. The relative pressure data has the lowest variability of all the data, the relative humidity data has intermediate variability, and the light intensitive data has significantly larger variability. Thus these data test any monitoring algorithm with data showcasing different levels of variability.
+The dataset in this dataset has two different timeseries of Atmospheric pressure, relative humidity and light intensity data, each recorded at different times. Both datasets have been collected with a sampling period of 10s over several weeks. The first dataset is composed of 302845 samples, and the second of 504862 samples. The first dataset is intended to be used for training to set the necessary parameters and the second dataset to validate the monitoring method. This dataset was collected to support {[C.III]} to simulate real sensor measurements. The relative pressure data has the lowest variability of all the data, the relative humidity data has intermediate variability, and the light intensity data has significantly larger variability. Thus these data test any monitoring algorithm with data showcasing different levels of variability.
 
 <p class="pub-title">
     <a target="_blank" rel="noopener noreferrer" href="https://doi.org/10.5281/zenodo.7992523" title="C.VI">
