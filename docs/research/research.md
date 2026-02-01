@@ -1,7 +1,7 @@
 ---
 title: Publications
 icon: fontawesome/regular/newspaper
-description: Index of research publications from my PhD titled, bringing self-awareness to the extreme edge. A distributed approach for adaptive energy management in WSN (wireless sensor nodes) applied to SHM (structural health monitoring).
+description: Index of David Arnaiz's research publications. From my PhD titled, bringing self-awareness to the extreme edge. A distributed approach for adaptive energy management in WSN (wireless sensor nodes) applied to SHM (structural health monitoring).
 ---
 
 # Publications

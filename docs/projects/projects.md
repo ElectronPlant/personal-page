@@ -1,7 +1,7 @@
 ---
 title: Projects
 icon: fontawesome/solid/wrench
-description: Project portfolio focusing on embedded systems, FreeRTOS, tools and fun projects.
+description: David Arnaiz's project portfolio focusing on embedded systems, FreeRTOS, tools and fun projects.
 ---
 
 # Projects

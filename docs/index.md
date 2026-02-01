@@ -1,7 +1,7 @@
 ---
 title: David Arnaiz - Curriculum Vitae
 icon: fontawesome/regular/id-badge
-description: Embedded firmware engineer specializing in adaptive IoT sensors, RTOS applications, and dynamic energy management for low-power embedded devices. Based in Spain.
+description: David Arnaiz, an embedded firmware engineer specializing in adaptive IoT sensors, RTOSs, and dynamic energy management for low-power systems. Based in Spain.
 ---
 ![resume_image](assets/imgs/resume_image.jpg)
 

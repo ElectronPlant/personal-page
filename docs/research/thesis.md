@@ -1,7 +1,7 @@
 ---
 title: Thesis & Dissertations
 icon: fontawesome/solid/graduation-cap
-description: List of the bachelors, masters and PhD thesis in electronics engineering.
+description: List of the bachelors, masters and PhD thesis in electronics engineering made by David Arnaiz.
 ---
 
 # Thesis & Dissertations
