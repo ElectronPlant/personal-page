@@ -42,6 +42,7 @@ extra_css:
 
 extra_templates:
     - google009ed8c895b10d28.html # site verification file for Google
+    - robots.txt
 
 extra:
   social:
