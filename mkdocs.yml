@@ -40,6 +40,9 @@ theme:
 extra_css:
     - extra_style.css
 
+extra_templates:
+    - google009ed8c895b10d28.html
+
 extra:
   social:
     - icon: octicons/mail-16
