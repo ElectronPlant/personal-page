@@ -72,5 +72,5 @@ nav:
         - projects/projects.md
     # - Blog:
     #     - blog/index.md
-    - about: about/about.md
+    - info: info/info.md
 
