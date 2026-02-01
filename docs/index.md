@@ -1,5 +1,6 @@
 ---
 title: David Arnaiz - Curriculum Vitae
+icon: fontawesome/regular/id-badge
 ---
 ![resume_image](assets/imgs/resume_image.jpg)
 

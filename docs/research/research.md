@@ -1,5 +1,6 @@
 ---
 title: Publications
+icon: fontawesome/regular/newspaper
 ---
 
 # Publications

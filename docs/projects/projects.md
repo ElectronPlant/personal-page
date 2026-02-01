@@ -1,5 +1,6 @@
 ---
 title: Projects
+icon: fontawesome/solid/wrench
 ---
 
 # Projects

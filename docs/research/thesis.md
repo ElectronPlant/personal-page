@@ -1,5 +1,6 @@
 ---
 title: Thesis & Dissertations
+icon: fontawesome/solid/graduation-cap
 ---
 
 # Thesis & Dissertations
