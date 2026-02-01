@@ -1,7 +1,16 @@
+# Project information
 site_name: David Arnaiz
 site_url: https://electronplant.github.io/personal-page/
 repo_name: personal-page
+repo_url: https://github.com/ElectronPlant/personal-page
+site_description: >-
+  David Arnaiz's personal web. This website contains information about me, my
+  projects, research and other interests.
+
+# Copyright
 copyright: Copyright © 2025 David Arnaiz
+
+# Configuration
 theme:
   name: material
   language: en
@@ -52,13 +61,16 @@ markdown_extensions:
 
 plugins:
     - search:
+    - blog:
 
 nav:
-    - About Me: index.md
+    - Profile: index.md
     - Research:
         - research/research.md
         - research/thesis.md
     - Projects:
         - projects/projects.md
-    - About: about/about.md
+    # - Blog:
+    #     - blog/index.md
+    - about: about/about.md
 
