@@ -4,6 +4,7 @@ title: Thesis & Dissertations
 
 # Thesis & Dissertations
 
+---
 ## Ph.D. Thesis
 <p class="pub-title-first">
     <a target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.5821/dissertation-2117-424246" title="PhD thesis">
@@ -18,6 +19,7 @@ This is my Ph.D. Thesis in Dynamic Energy Management (DEM) in wireless sensor no
   <p class="figure-captions">Observe Decide Act (ODA) loop</p>
 </figure>
 
+---
 ## M.Sc. Thesis
 <p class="pub-title-first">
     <a target="_blank" rel="noopener noreferrer" href="https://upcommons.upc.edu/handle/2117/124315" title="Masters thesis">
@@ -37,6 +39,7 @@ This is my M.Sc. Thesis I did as part the HP's R&D academy program. This thesis 
   <p class="figure-captions">One of the designed PCBs M.Sc. project</p>
 </figure>
 
+---
 ## B.Sc Final Project
 <p class="pub-title-first">
     <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/170bi9dNDOwZmmE8zO6q15ySLHxuf0xw4/view?usp=drive_link" title="B.Sc">

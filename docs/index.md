@@ -37,8 +37,7 @@ title: David Arnaiz - Curriculum Vitae
     <div class="keyword">RTOS Application Dev.</div>
 </div>
 
-----------
-
+---
 ## :material-eye: About me
 
 <p class="heading-2-alternative">Who Am I?</p>
@@ -55,6 +54,7 @@ I'm an about the design and development of intelligent embedded systems, and hav
 * Great communication, coordination and interpersonal skills.
 * Focused on continuous improvement and innovation, delivering contributions to significant projects.
 
+---
 ## :material-lightbulb: Skills
 <p class="heading-2-alternative">Programming Languages</p>
 <div class="skills-top">
@@ -84,6 +84,7 @@ I'm an about the design and development of intelligent embedded systems, and hav
 * __Measurement tools:__ oscilloscope, logic analyzer, power monitor, GDB.
 * __Languages:__ Spanish (native), English (B2).
 
+---
 ## :fontawesome-solid-briefcase: Work Experience
 
 <p class="we-work-duration">
@@ -124,6 +125,7 @@ I'm an about the design and development of intelligent embedded systems, and hav
 * Developed custom HW and FW prototypes for inductive, optic sensing.
 * Handled printer self-diagnostics at the PCB level.
 
+---
 ## :fontawesome-solid-graduation-cap: Education
 
 <p class="edu-degree-duration">

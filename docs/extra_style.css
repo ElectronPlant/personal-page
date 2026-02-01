@@ -336,12 +336,26 @@ img[alt=resume_image] {
     flex: none;
 }
 
+/* .pub-title-first::before {
+    content: "•";
+    color: black;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -0.2em;
+} */
+
 .pub-title-first {
     font-weight: bold;
     color: inherit;
     text-decoration: none;
-    font-size: 1.2em;
+    font-size: 1.1em;
     margin-top: -5px;
+
+    background-color: rgba(128, 128, 128, 0.1);
+    border-radius: 4px;
+    display: block;
+    transition: background-color 0.8s ease;
 }
 
 .pub-title-first a {
@@ -354,6 +368,11 @@ img[alt=resume_image] {
     text-decoration: none;
     font-size: 1.2em;
     margin-top: 50px;
+
+    background-color: rgba(128, 128, 128, 0.1);
+    border-radius: 4px;
+    display: block;
+    transition: background-color 0.8s ease;
 }
 
 .pub-title a {

@@ -36,6 +36,7 @@ This work proposes a lightweight monitoring method for wireless sensor nodes tha
 __Summary:__
 Self-aware sensor nodes need to be integrated into a wider IoT network interacting with fog and cloud servers. While self-awareness has started gaining prominence in the field of wireless sensor nodes, a similar concept, i.e. context awareness, has gained more prominence in managing the infrastructure at the higher hierarchical levels of the network. {[C.II]} explores the similarities and differences between both approaches, proposing a reference architecture combining both approaches and taking into consideration the differences in response time and resource availability across the IoT hierarchy to improve upon existing approaches.
 
+---
 ## Journal Publications
 
 <p class="pub-title-first">
@@ -71,6 +72,7 @@ One of the biggest challenges for implementing self-awareness for SHM applicatio
   <p class="figure-captions">Block diagram of the anomaly detection algorithm from [C.IV]</p>
 </figure>
 
+---
 ## Datasets
 
 <p class="pub-title-first">
