@@ -1,6 +1,7 @@
 ---
 title: Thesis & Dissertations
 icon: fontawesome/solid/graduation-cap
+description: List of the bachelors, masters and PhD thesis in electronics engineering.
 ---
 
 # Thesis & Dissertations

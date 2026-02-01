@@ -1,11 +1,12 @@
 ---
 title: Project Info
+description: repository and licensing information.
 ---
 
 # Project Info
 
-## Source Code
-The source code for this page is available on my [GitHub](https://github.com/ElectronPlant/personal-page)
+## Repository
+The reposiroty with the web's source code is available on my [GitHub](https://github.com/ElectronPlant/personal-page). The page is build using the [Material theme](https://squidfunk.github.io/mkdocs-material/) for [MkDocs](https://www.mkdocs.org/).
 
 
 ## License
