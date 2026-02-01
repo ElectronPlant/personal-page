@@ -41,7 +41,7 @@ extra_css:
     - extra_style.css
 
 extra_templates:
-    - google009ed8c895b10d28.html
+    - google009ed8c895b10d28.html # site verification file for Google
 
 extra:
   social:
@@ -64,6 +64,7 @@ markdown_extensions:
 plugins:
     - search:
     - blog:
+    - social:
 
 nav:
     - Profile: index.md
