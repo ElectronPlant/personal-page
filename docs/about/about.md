@@ -1,8 +1,8 @@
 ---
-title: About
+title: Project Info
 ---
 
-# About
+# Project Info
 
 ## Source Code
 The source code for this page is available on my [GitHub](https://github.com/ElectronPlant/personal-page)
