@@ -1,7 +1,6 @@
 User-agent: *
 Allow: /
+Allow: /sitemap.xml
 Disallow: /google*.html
-Disallow: /robots.txt
 
-# Replace with your actual URL
 Sitemap: https://electronplant.github.io/personal-page/sitemap.xml
